@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/ 
+.env #kan indeholde følsomme oplysninger som API nøgler, database adgang osv.
+.DS_Store # macOS systemfil, der ikke er relevant for projektet
+
+
+#De her skal ikke pushes til github, da de er specifikke for den enkelte udvikler og kan indeholde følsomme oplysninger. 
