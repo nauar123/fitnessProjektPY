@@ -29,4 +29,4 @@ pip install -r requirements.txt
 
 ## Hvordan projektet køres:
 
-docker-compose up --build
+docker-compose up 
